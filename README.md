@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+- 🔭 I’m currently working on CMB YUNCHUANG TECHNOLOGY
+- 🌱 I’m currently learning React,JavaScript
 <!--
 **Mr-Song-Yu/Mr-Song-Yu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,4 +15,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Mr-Song-Yu)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Mr-Song-Yu)](https://github.com/anuraghazra/github-readme-stats) -->
+<table>
+  <tbody>
+    <tr>
+      <td>
+          <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mr-Song-Yu&show_icons=true" />
+      </td>
+       <td>
+          <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Song-Yu" />
+      </td>
+    </tr>
+  </tbody>
+</table>
