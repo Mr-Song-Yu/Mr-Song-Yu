@@ -20,10 +20,10 @@ Here are some ideas to get you started:
   <tbody>
     <tr>
       <td>
-          <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mr-Song-Yu&show_icons=true" />
+          <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mr-Song-Yu&show_icons=true&theme=Gradient" />
       </td>
        <td>
-          <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Song-Yu" />
+          <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Song-Yu&layout=compact" />
       </td>
     </tr>
   </tbody>
