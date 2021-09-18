@@ -23,7 +23,7 @@ Here are some ideas to get you started:
           <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mr-Song-Yu&show_icons=true&bg_color=30,72EDF2,5151E5&title_color=fff&text_color=fff" />
       </td>
        <td>
-          <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Song-Yu&show_icons=true&bg_color=30,72EDF2,5151E5&title_color=fff&text_color=fff" />
+          <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Song-Yu&bg_color=30,72EDF2,5151E5&title_color=fff&text_color=fff" />
       </td>
     </tr>
   </tbody>
