@@ -1,6 +1,7 @@
 ### Hi there 👋
 - 🔭 I’m currently working on CMB YUNCHUANG TECHNOLOGY
 - 🌱 I’m currently learning React,JavaScript
+![rand](https://rand-xyz.now.sh/api/hello)
 <!--
 **Mr-Song-Yu/Mr-Song-Yu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
